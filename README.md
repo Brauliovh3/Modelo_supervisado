@@ -19,3 +19,4 @@ Este proyecto es un ejemplo simple de un flujo de trabajo de machine learning su
 ## Notas
 - El script usa el dataset Iris de scikit-learn como ejemplo.
 - Los resultados de las predicciones se guardan en `resultados.csv`.
+- resultaods de los cambios para mas
